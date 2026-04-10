@@ -340,4 +340,5 @@ This project demonstrates:
 * Practical AI deployment
 
 output
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/7142adc4-66b5-43ce-a1e2-f481113d50d9" />
 
